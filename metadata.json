@@ -1,0 +1,6 @@
+{
+  "name": "ASAR - Al Sahab Al Rasid Trad. & Cont. Co. L.L.C.",
+  "description": "Official corporate website for ASAR (Al Sahab Al Rasid Trad. & Cont. Co. L.L.C.) in Oman. EPC, civil works, infrastructure, roadworks, MEP, pipeline works, and skilled manpower supply.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
